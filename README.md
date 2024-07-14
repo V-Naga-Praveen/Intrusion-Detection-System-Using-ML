@@ -11,6 +11,7 @@ Training and validating models using the CICIDS2017 dataset.
 Performing hyperparameter tuning using Bayesian Optimization with a Tree-based Parzen Estimator (BO-TPE).
 Creating a user-friendly graphical interface with Tkinter to process 77 input attributes for accurate attack identification.
 Excluding the detection of anomaly-based attacks and alarm generation functionalities.
+
 3. Project Features
 
 3.1 Multi-Tiered Hybrid Framework
