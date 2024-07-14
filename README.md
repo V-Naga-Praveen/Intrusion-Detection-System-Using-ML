@@ -65,7 +65,7 @@ The project relies on the CICIDS2017 dataset for training and validation purpose
 
 ## 6. Project Structure
 
-- **Ids-code.ipynb**: Jupyter notebook containing the project code.
+- **IDS-code.ipynb**: Jupyter notebook containing the project code.
 - **gui-code.ipynb**: Jupyter notebook containing the GUI code.
 - **joblib files**: Contains the 6 pre-trained model files.
 - **dataset**: Contains the CICIDS2017 dataset.
@@ -74,7 +74,7 @@ The project relies on the CICIDS2017 dataset for training and validation purpose
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/V-Naga-Praveen/Intrusion-Detection-System-Using-ML.git
    cd your-repository
    ```
 
@@ -84,11 +84,11 @@ The project relies on the CICIDS2017 dataset for training and validation purpose
    ```
 
 3. **Run the Jupyter notebooks**:
-   Open `ids-code.ipynb` and `gui-code.ipynb` in Jupyter Notebook and run the cells to execute the project code and the GUI.
+   Open `IDS-code.ipynb` and `gui-code.ipynb` in Jupyter Notebook and run the cells to execute the project code and the GUI.
 
 ## 8. Contact
 
-For any questions or further information, please contact [your email].
+For any questions or further information, please contact [vajjanagapraveen@gmail.com].
 
 ---
 
