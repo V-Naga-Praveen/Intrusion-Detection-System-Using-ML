@@ -52,16 +52,16 @@ The project incorporates a blend of cutting-edge technologies to deliver an effi
 - **Random Forest, Extra Trees, XGBoost, Decision Tree**: These models form the backbone of the intrusion detection system, leveraging ensemble learning techniques to enhance detection accuracy.
 
 ### 5.2 Bayesian Optimization with Tree-based Parzen Estimator (BO-TPE)
-This optimization technique plays a crucial role in fine-tuning the hyperparameters of the machine learning models.
+- **This optimization technique plays a crucial role in fine-tuning the hyperparameters of the machine learning models.
 
 ### 5.3 Tkinter (GUI Development)
-Tkinter is utilized to create an intuitive graphical user interface (GUI) for the intrusion detection system.
+- **Tkinter is utilized to create an intuitive graphical user interface (GUI) for the intrusion detection system.
 
 ### 5.4 Python Programming Language
-Python serves as the primary programming language for implementing various components of the system.
+- **Python serves as the primary programming language for implementing various components of the system.
 
 ### 5.5 CICIDS2017 Dataset
-The project relies on the CICIDS2017 dataset for training and validation purposes.
+- **The project relies on the CICIDS2017 dataset for training and validation purposes.
 
 ## 6. Project Structure
 
@@ -92,5 +92,5 @@ For any questions or further information, please contact [vajjanagapraveen@gmail
 
 ---
 
-This version is more concise, with headings and formatting to improve readability.
+
 
