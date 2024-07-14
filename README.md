@@ -19,22 +19,22 @@ The scope of this project includes:
 ## 3. Project Features
 
 ### 3.1 Multi-Tiered Hybrid Framework
-Utilizes a comprehensive MTH framework to develop and ensemble multiple machine learning models for effective intrusion detection.
+- Utilizes a comprehensive MTH framework to develop and ensemble multiple machine learning models for effective intrusion detection.
 
 ### 3.2 Ensemble Learning
-Incorporates diverse machine learning algorithms including Random Forest, Extra Trees, XGBoost, and Decision Tree for enhanced detection of signature-based attacks.
+- Incorporates diverse machine learning algorithms including Random Forest, Extra Trees, XGBoost, and Decision Tree for enhanced detection of signature-based attacks.
 
 ### 3.3 Hyperparameter Optimization
-Implements Bayesian Optimization with a Tree-based Parzen Estimator (BO-TPE) to fine-tune model parameters.
+- Implements Bayesian Optimization with a Tree-based Parzen Estimator (BO-TPE) to fine-tune model parameters.
 
 ### 3.4 Graphical User Interface (GUI)
-Develops a user-friendly GUI using Tkinter, facilitating easy input of 77 attributes and providing clear output regarding detected attack types.
+- Develops a user-friendly GUI using Tkinter, facilitating easy input of 77 attributes and providing clear output regarding detected attack types.
 
 ### 3.5 Focused Approach
-Concentrates solely on signature-based attack detection, excluding anomaly-based attacks, to provide precise and efficient cybersecurity measures.
+- Concentrates solely on signature-based attack detection, excluding anomaly-based attacks, to provide precise and efficient cybersecurity measures.
 
 ### 3.6 Dataset Utilization
-Leverages the CICIDS2017 dataset for training and validation, ensuring robustness and reliability in detecting known signature-based attacks.
+- Leverages the CICIDS2017 dataset for training and validation, ensuring robustness and reliability in detecting known signature-based attacks.
 
 ## 4. Proposed System
 
@@ -52,16 +52,16 @@ The project incorporates a blend of cutting-edge technologies to deliver an effi
 - **Random Forest, Extra Trees, XGBoost, Decision Tree**: These models form the backbone of the intrusion detection system, leveraging ensemble learning techniques to enhance detection accuracy.
 
 ### 5.2 Bayesian Optimization with Tree-based Parzen Estimator (BO-TPE)
-- **This optimization technique plays a crucial role in fine-tuning the hyperparameters of the machine learning models.
+- This optimization technique plays a crucial role in fine-tuning the hyperparameters of the machine learning models.
 
 ### 5.3 Tkinter (GUI Development)
-- **Tkinter is utilized to create an intuitive graphical user interface (GUI) for the intrusion detection system.
+- Tkinter is utilized to create an intuitive graphical user interface (GUI) for the intrusion detection system.
 
 ### 5.4 Python Programming Language
-- **Python serves as the primary programming language for implementing various components of the system.
+- Python serves as the primary programming language for implementing various components of the system.
 
 ### 5.5 CICIDS2017 Dataset
-- **The project relies on the CICIDS2017 dataset for training and validation purposes.
+- The project relies on the CICIDS2017 dataset for training and validation purposes.
 
 ## 6. Project Structure
 
