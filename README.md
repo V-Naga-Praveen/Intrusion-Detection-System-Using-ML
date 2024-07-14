@@ -75,13 +75,10 @@ The project incorporates a blend of cutting-edge technologies to deliver an effi
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/V-Naga-Praveen/Intrusion-Detection-System-Using-ML.git
-   cd your-repository
+   cd V-Naga-Praveen
    ```
 
-2. **Install the required dependencies**:
-   ```sh
-   pip install -r requirements.txt
-   ```
+2. **Install the required dependencies**
 
 3. **Run the Jupyter notebooks**:
    Open `IDS-code.ipynb` and `gui-code.ipynb` in Jupyter Notebook and run the cells to execute the project code and the GUI.
