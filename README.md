@@ -66,7 +66,7 @@ The project incorporates a blend of cutting-edge technologies to deliver an effi
 ## 6. Project Structure
 
 - **IDS-code.ipynb**: Jupyter notebook containing the project code.
-- **gui-code.ipynb**: Jupyter notebook containing the GUI code.
+- **gui-code.py**: python code containg interface code.
 - **joblib files**: Contains the 6 pre-trained model files.
 - **dataset**: Contains the CICIDS2017 dataset.
 
@@ -80,8 +80,8 @@ The project incorporates a blend of cutting-edge technologies to deliver an effi
 
 2. **Install the required dependencies**
 
-3. **Run the Jupyter notebooks**:
-   Open `IDS-code.ipynb` and `gui-code.ipynb` in Jupyter Notebook and run the cells to execute the project code and the GUI.
+3. **Run the Jupyter notebooks and python file**:
+   Open `IDS-code.ipynb` and `gui-code.py` and run them, can directly run python code .
 
 ## 8. Contact
 
